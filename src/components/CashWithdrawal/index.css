@@ -1,0 +1,62 @@
+/* Write your CSS here */
+.app-conatiner {
+  background-color: #150b3e;
+  height: 100vh;
+  border-radius: 20px;
+}
+.name-container {
+  display: flex;
+}
+.name-log {
+  color: #382f5a;
+  font-size: 40px;
+  background-color: #c7d2fe;
+  height: 130px;
+  width: 130px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 280px;
+  padding-bottom: 15px;
+  margin-left: 70px;
+  margin-top: 70px;
+}
+.name {
+  font-size: 58px;
+  color: #c7d2fe;
+  font-family: 'Roboto';
+  padding-top: 30px;
+  padding-left: 10px;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+}
+.your-balance {
+  color: #585076;
+  font-size: 58px;
+  font-family: 'Roboto';
+  padding-left: 70px;
+}
+.balance {
+  color: #c7d2fe;
+  font-size: 58px;
+  font-family: 'Roboto';
+  padding-right: 70px;
+}
+.span {
+  font-size: 28px;
+}
+.Withdraw {
+  font-size: 58px;
+  color: #c7d2fe;
+  font-family: 'Roboto';
+
+  padding-left: 70px;
+}
+.choose-sum {
+  color: #585076;
+  font-size: 38px;
+  font-family: 'Roboto';
+  padding-left: 70px;
+}
